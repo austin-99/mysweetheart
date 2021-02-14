@@ -51,6 +51,11 @@ body{
 	width: 40%;
 }
 
+#container6{
+    margin: auto;
+	width: 15%;
+}
+
 #header1{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -62,6 +67,11 @@ body{
 	font-size: 12pt;
 }
 
+#header3{
+    text-align: center;
+    font-family: cursive;
+	font-size: 60pt;
+}
 
 #poem{
     text-align: center;
