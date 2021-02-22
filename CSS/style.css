@@ -19,7 +19,7 @@ body{
 
 .navbar {
     overflow: hidden;
-    background-color: Black;
+    background-color: rgb(132, 0, 255);
     position: fixed; 
     width: 100%; 
     color: white;
