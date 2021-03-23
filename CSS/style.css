@@ -34,7 +34,7 @@ body{
 }
 
 .container5{
-    width: 50%;
+    width: 40%;
     margin: auto;
     overflow: hidden;
 }
@@ -70,7 +70,7 @@ body{
 #header3{
     text-align: center;
     font-family: cursive;
-	font-size: 60pt;
+	font-size: 30pt;
 }
 
 #poem{
